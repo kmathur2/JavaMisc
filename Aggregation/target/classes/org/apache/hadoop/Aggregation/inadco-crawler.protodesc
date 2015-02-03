@@ -1,0 +1,43 @@
+
+ô
+crawler/crawler.protoinadco.crawler"¬
+
+CrawlEntry
+logId (6
+header (2&.inadco.crawler.CrawlEntry.EntryHeader<
+	dataChunk (2).inadco.crawler.CrawlEntry.EntryDataChunk6
+footer (2&.inadco.crawler.CrawlEntry.EntryFooterÞ
+EntryHeader
+uri (	
+contentType (	
+success (
+httpTransaction (
+fetchStatus (
+fetchStatusDescription (	
+fetchBeginTime
+ (
+fetchCompletedTime (
+contentSize (
+contentLength (
+encoding (	
+responseContentLength (=
+httpMethodData (2%.inadco.crawler.CrawlEntry.HttpMethod
+
+HttpMethod
+name (	
+
+statusCode (
+
+statusText (	
+
+statusLine (	
+headerNames (	
+headerValues (	.
+EntryDataChunk
+seqNum (
+data (L
+EntryFooter
+crc32 (
+crawlerDigest (
+totalDataChunks (B
+com.inadco.crawler.codegen
